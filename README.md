@@ -114,8 +114,6 @@
 - 💸 **Splitwise Clone** — an expense-splitting app built to sharpen backend fundamentals for interviews
 - 🥦 **Veggiemandala** — a vegetable e-commerce platform (`veggie-store-backend`)
 
-> 🔧 Add/reorder pin cards above once you push these repos to GitHub — right now only public repos will render correctly.
-
 ---
 
 ### 🐍 Contribution Snake
@@ -125,8 +123,6 @@
 <img src="https://raw.githubusercontent.com/Nav-neetKr/Nav-neetKr/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="90%"/>
 
 </div>
-
-> 🔧 This snake animation needs a **one-time GitHub Action setup** (generates itself from your contribution graph). Ask me and I'll give you the workflow file to drop into this repo — it self-updates daily.
 
 ---
 
