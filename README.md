@@ -55,8 +55,8 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Nav-neetKr&show_icons=true&theme=chartreuse-dark&bg_color=0f2027&title_color=00F5D4&icon_color=00F5D4&text_color=c9d1d9&border_color=203a43&hide_border=false&count_private=true" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nav-neetKr&layout=compact&theme=chartreuse-dark&bg_color=0f2027&title_color=00F5D4&text_color=c9d1d9&border_color=203a43&hide_border=false" alt="Top Languages"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=Nav-neetKr&show_icons=true&theme=chartreuse-dark&bg_color=0f2027&title_color=00F5D4&icon_color=00F5D4&text_color=c9d1d9&border_color=203a43&hide_border=false&count_private=true" alt="GitHub Stats"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Nav-neetKr&layout=compact&theme=chartreuse-dark&bg_color=0f2027&title_color=00F5D4&text_color=c9d1d9&border_color=203a43&hide_border=false" alt="Top Languages"/>
 
 <br/>
 
@@ -90,14 +90,21 @@
 
 <div align="center">
 
+<a href="https://github.com/Nav-neetKr/AskMyCodebase">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Nav-neetKr&repo=AskMyCodebase&theme=chartreuse-dark&bg_color=0f2027&title_color=00F5D4&text_color=c9d1d9&border_color=203a43" />
+</a>
+<a href="https://github.com/Nav-neetKr/transcript-desk">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Nav-neetKr&repo=transcript-desk&theme=chartreuse-dark&bg_color=0f2027&title_color=00F5D4&text_color=c9d1d9&border_color=203a43" />
+</a>
+<br/>
 <a href="https://github.com/Nav-neetKr/veggie-store-backend">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nav-neetKr&repo=veggie-store-backend&theme=chartreuse-dark&bg_color=0f2027&title_color=00F5D4&text_color=c9d1d9&border_color=203a43" />
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Nav-neetKr&repo=veggie-store-backend&theme=chartreuse-dark&bg_color=0f2027&title_color=00F5D4&text_color=c9d1d9&border_color=203a43" />
 </a>
 <a href="https://github.com/Nav-neetKr/notes-backend">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nav-neetKr&repo=notes-backend&theme=chartreuse-dark&bg_color=0f2027&title_color=00F5D4&text_color=c9d1d9&border_color=203a43" />
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Nav-neetKr&repo=notes-backend&theme=chartreuse-dark&bg_color=0f2027&title_color=00F5D4&text_color=c9d1d9&border_color=203a43" />
 </a>
 <a href="https://github.com/Nav-neetKr/AI-Insurance-Chatbot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nav-neetKr&repo=AI-Insurance-Chatbot&theme=chartreuse-dark&bg_color=0f2027&title_color=00F5D4&text_color=c9d1d9&border_color=203a43" />
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Nav-neetKr&repo=AI-Insurance-Chatbot&theme=chartreuse-dark&bg_color=0f2027&title_color=00F5D4&text_color=c9d1d9&border_color=203a43" />
 </a>
 
 </div>
